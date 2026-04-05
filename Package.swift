@@ -8,7 +8,7 @@ let package = Package(
     .library(name: "MobileFuseAdapter", targets: ["MobileFuseAdapter"]),
   ],
   dependencies: [
-    .package(url: "https://github.com/mobilefuse/mobilefuse-ios-sdk-spm", exact: "1.10.0"),
+    .package(url: "https://github.com/mobilefuse/mobilefuse-ios-sdk-spm", exact: "1.11.0"),
     .package(url: "https://github.com/ironsource-mobile/Unity-Mediation-iAds-Swift-Package", "9.0.0"..<"10.0.0"),
   ],
   targets: [
@@ -22,8 +22,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "MobileFuseAdapterSDK",
-      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/mobilefuse-adapter/5.1.0/ISMobileFuseAdapter5.1.0.zip",
-      checksum: "b875f43c91deba31bd16ee63ac8122a7fae3814c7b7f485ebdc13dc02f0820b1"
+      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/mobilefuse-adapter/5.2.0/ISMobileFuseAdapter5.2.0.zip",
+      checksum: "ae10a97b851b1ecdcbcce1ca88feadadf8fc77f9ced720efcb1f40e875e88998"
     )
   ]
 )
