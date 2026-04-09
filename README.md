@@ -30,7 +30,7 @@ dependencies: [
 
 This package includes:
 - LevelPlay iOS SDK (Unity Mediation SDK)
-- MobileFuse SDK v1.10.0 ([SPM wrapper](https://github.com/mobilefuse/mobilefuse-ios-sdk-spm))
+- MobileFuse SDK
 
 ## Documentation
 
