@@ -22,8 +22,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "MobileFuseAdapterSDK",
-      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/mobilefuse-adapter/5.2.0/ISMobileFuseAdapter5.2.0.zip",
-      checksum: "ae10a97b851b1ecdcbcce1ca88feadadf8fc77f9ced720efcb1f40e875e88998"
+      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/mobilefuse-adapter/5.3.0/ISMobileFuseAdapter5.3.0.zip",
+      checksum: "7f1d66e13843b28e2b3889415607a4e50d731031848a30e951389495c81a5078"
     )
   ]
 )
